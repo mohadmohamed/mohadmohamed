@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohad Mohamed</h1>
 <h3 align="center">A passionate Communications & Software developer from Egypt</h3>
+<img src="https://www.pinterest.com/pin/15481192463772597/">
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mohad-mohamed/](https://www.linkedin.com/in/mohad-mohamed/)
 
