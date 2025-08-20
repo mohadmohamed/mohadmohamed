@@ -1,6 +1,5 @@
-<h2 align="center">Hi 👋! My name is Mohad Mohamed and I'm a Communications & Software developer, from Egypt <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" height="30" alt="Egypt Flag"/></h2>
+<h2 align="center">Hi 👋! My name is Mohad Mohamed</h2>
 
-###
 <h3 align="center">
   <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" 
        alt="Egypt Flag" 
@@ -10,6 +9,7 @@
        alt="Egypt Flag" 
        height="20"/>
 </h3>
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mohadmohamed&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
