@@ -25,9 +25,20 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Fbhdnh3EZ8JP3N1a_bssJA8-Vx8V-YPb/view?usp=drive_link](https://drive.google.com/file/d/1Fbhdnh3EZ8JP3N1a_bssJA8-Vx8V-YPb/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohad mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohad mohamed" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohadm7566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohadm7566" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/mohad mohamed" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+  </a>
+  <a href="https://codeforces.com/profile/mohadm7566" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="50" />
+  </a>
+  <a href="https://www.facebook.com/mohad.mohamed.677974" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" />
+  </a>
+  <a href="https://wa.me/+201093758143" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="40" width="50" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
