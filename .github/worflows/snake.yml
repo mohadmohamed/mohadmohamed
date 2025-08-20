@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # يتجدد كل 12 ساعة
-  workflow_dispatch:         # تقدر تشغله يدوي كمان
+    - cron: "0 */12 * * *"  
+  workflow_dispatch:        
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: mohadmohamed   # 👈 غيرها لاسم حسابك
+          github_user_name: mohadmohamed  
           outputs: dist/snake.svg
 
       - name: Push Snake to output branch
