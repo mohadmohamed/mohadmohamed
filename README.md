@@ -19,7 +19,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndjYTA1OGd1a3U5NzN2bmlwMjhtdHN3NXk4M2ZkNDJ5aTkxaG9ocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif" alt="GIF" />
 
 ###
 
