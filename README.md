@@ -19,7 +19,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif" alt="GIF" />
+<img align="right" height="150" src="Assets/coding.gif" alt="GIF" />
+
 
 ###
 
