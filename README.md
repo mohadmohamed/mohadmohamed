@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Mohad Mohamed</h2>
 
-<h3 align="center">
+<h2 align="center">
   <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" 
        alt="Egypt Flag" 
        height="20"/> 
@@ -8,7 +8,7 @@
   <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" 
        alt="Egypt Flag" 
        height="20"/>
-</h3>
+</h2>
 
 ###
 
