@@ -20,7 +20,7 @@
 ###
 
 
-![Uploading Tech Working GIF by Pudgy Penguins.gif…]()
+![Tech Working GIF by Pudgy Penguins](https://github.com/user-attachments/assets/c96abec8-38b8-494a-8909-028525e497e2)
 
 
 ###
