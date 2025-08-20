@@ -1,14 +1,16 @@
-<h2 align="center">Hi 👋! My name is Mohad Mohamed</h2>
+<h2 align="center">Hi 👋! My name is <span style="color:#4CAF50;">Mohad Mohamed</span></h2>
 
-<h2 align="center">
+<h3 align="center" style="font-weight:normal;">
   <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" 
        alt="Egypt Flag" 
-       height="20"/> 
-  A passionate Communications & Software developer from Egypt 
+       height="28" 
+       style="margin-right:8px;"/> 
+  A passionate <span style="color:#007acc;">Communications & Software Developer</span> from Egypt 
   <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" 
        alt="Egypt Flag" 
-       height="20"/>
-</h2>
+       height="28" 
+       style="margin-left:8px;"/>
+</h3>
 
 ###
 
