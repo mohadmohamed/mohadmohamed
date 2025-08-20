@@ -21,6 +21,7 @@
 
 
 ![Tech Working GIF by Pudgy Penguins](https://github.com/user-attachments/assets/c96abec8-38b8-494a-8909-028525e497e2)
+<img align="right" height="150" src="https://github.com/user-attachments/assets/c96abec8-38b8-494a-8909-028525e497e2" alt="Tech Working GIF by Pudgy Penguins" />
 
 
 ###
