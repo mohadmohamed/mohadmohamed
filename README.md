@@ -1,1 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mohad Mohamed</h1> <h2 align="center"> <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" alt="Egypt Flag" height="20"/> A passionate Communications & Software developer from Egypt <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" alt="Egypt Flag" height="20"/> </h2> <div align="center"> <img src="https://i.pinimg.com/1200x/f4/33/25/f43325d1c3e7a7f3ab6ea59122c989fe.jpg" alt="mohad mohamed" height="300" width="250"/> </div> - 🌠 My Portfolio [https://my-main-portfolio-pearl.vercel.app/] - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mohad-mohamed/](https://www.linkedin.com/in/mohad-mohamed/) - 📫 My Email **mohadm756@gmail.com** - 📄 My Resume [https://drive.google.com/file/d/1Fbhdnh3EZ8JP3N1a_bssJA8-Vx8V-YPb/view?usp=drive_link](https://drive.google.com/file/d/1Fbhdnh3EZ8JP3N1a_bssJA8-Vx8V-YPb/view?usp=drive_link) <h3 align="center">Connect with me:</h3> <p align="center"> <a href="https://linkedin.com/in/mohad mohamed" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="display:inline-block; margin:8px; transform:scale(1.15);"/> </a> <a href="https://codeforces.com/profile/mohadm7566" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" style="display:inline-block; margin:8px; transform:scale(1.15);"/> </a> <a href="https://www.facebook.com/mohad.mohamed.677974" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="display:inline-block; margin:8px; transform:scale(1.15);"/> </a> <a href="https://wa.me/+201093758143" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="display:inline-block; margin:8px; transform:scale(1.15);"/> </a> </p> <h3 align="center">Languages and Tools:</h3> <!-- Programming Languages --> <p align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="margin:6px; transform:scale(1.1);"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" style="margin:6px; transform:scale(1.1);"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="margin:6px; transform:scale(1.1);"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin:6px; transform:scale(1.1);"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin:6px; transform:scale(1.1);"/> <img src="https://img.shields.io/badge/Matlab-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" style="margin:6px; transform:scale(1.1);"/> </p> <!-- Web Development --> <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin:6px; transform:scale(1.1);"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin:6px; transform:scale(1.1);"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin:6px; transform:scale(1.1);"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="margin:6px; transform:scale(1.1);"/> </p> <!-- Hardware / Databases --> <p align="center"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" style="margin:6px; transform:scale(1.1);"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin:6px; transform:scale(1.1);"/> </p>
+<h2 align="left">Hi 👋! My name is Mohad Mohamed and I'm a Communications & Software developer, from Egypt</h2>
+
+###
+
+<img align="right" height="158" src="https://camo.githubusercontent.com/b40653ab07c8b6efd9673633c8b9481cea02315d169c0c1dc8f15a4fd17004bd/68747470733a2f2f692e70696e696d672e636f6d2f31323030782f66342f33332f32352f66343333323564316333653761376633616236656135393132326339383966652e6a7067"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="discordapp.com/users/1021843825712431176" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.facebook.com/mohad.mohamed.677974" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
+
+###
