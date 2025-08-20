@@ -1,8 +1,21 @@
-<h2 align="left">Hi 👋! My name is Mohad Mohamed and I'm a Communications & Software developer, from Egypt</h2>
+<h2 align="left">
+  Hi 👋! My name is Mohad Mohamed and I'm a Communications & Software developer, from 
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" 
+       alt="Egypt Flag" 
+       height="20"/> Egypt
+</h2>
+
 
 ###
 
-<img align="right" height="158" src="https://camo.githubusercontent.com/b40653ab07c8b6efd9673633c8b9481cea02315d169c0c1dc8f15a4fd17004bd/68747470733a2f2f692e70696e696d672e636f6d2f31323030782f66342f33332f32352f66343333323564316333653761376633616236656135393132326339383966652e6a7067"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mohadmohamed&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohadmohamed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndjYTA1OGd1a3U5NzN2bmlwMjhtdHN3NXk4M2ZkNDJ5aTkxaG9ocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif"  />
 
 ###
 
@@ -44,5 +57,11 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mohadmohamed/mohadmohamed/output/snake.svg" alt="Snake animation" />
 
 ###
