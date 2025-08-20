@@ -11,7 +11,7 @@
        height="25" 
        style="margin-left:8px;"/>
 </h3>
-<br>
+
 
 ###
 
@@ -19,6 +19,7 @@
   <img src="https://streak-stats.demolab.com?user=mohadmohamed&locale=en&mode=daily&theme=buefy&hide_border=false&border_radius=5" height="165" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohadmohamed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="170" alt="languages graph"  />
 </div>
+<br>
 
 ###
 
