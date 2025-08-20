@@ -27,16 +27,16 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mohad mohamed" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="display:inline-block; margin:5px; transition:0.3s;"/>
   </a>
   <a href="https://codeforces.com/profile/mohadm7566" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" style="display:inline-block; margin:5px; transition:0.3s;"/>
   </a>
   <a href="https://www.facebook.com/mohad.mohamed.677974" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="display:inline-block; margin:5px; transition:0.3s;"/>
   </a>
   <a href="https://wa.me/+201093758143" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="display:inline-block; margin:5px; transition:0.3s;"/>
   </a>
 </p>
 
