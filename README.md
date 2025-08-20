@@ -19,15 +19,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohadmohamed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
-
-
 ###
 
 <img align="right" height="150" src="https://github.com/user-attachments/assets/c96abec8-38b8-494a-8909-028525e497e2" alt="Tech Working GIF by Pudgy Penguins" style="margin-bottom:20px;" />
 
 ###
 
-<h2 align="center">🛠️ Tech Stack</h2>
+
 
 ### 💻 Programming Languages
 <p align="center">
