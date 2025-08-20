@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohad Mohamed and I'm a Communications & Software developer, from <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" height="20" alt="Egypt Flag"/> Egypt</h2>
+<h2 align="left"><img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" height="20" alt="Egypt Flag"/>Hi 👋! My name is Mohad Mohamed and I'm a Communications & Software developer, from Egypt<img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1ec.svg" height="20" alt="Egypt Flag"/></h2>
 
 ###
 
