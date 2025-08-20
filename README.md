@@ -17,12 +17,13 @@
        width="250"/>
 </div>
 
+- 🌠 My Portfolio [https://my-main-portfolio-pearl.vercel.app/]
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mohad-mohamed/](https://www.linkedin.com/in/mohad-mohamed/)
 
-- 📫 How to reach me **mohadm756@gmail.com**
+- 📫 My Email **mohadm756@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Fbhdnh3EZ8JP3N1a_bssJA8-Vx8V-YPb/view?usp=drive_link](https://drive.google.com/file/d/1Fbhdnh3EZ8JP3N1a_bssJA8-Vx8V-YPb/view?usp=drive_link)
+- 📄 My Resume [https://drive.google.com/file/d/1Fbhdnh3EZ8JP3N1a_bssJA8-Vx8V-YPb/view?usp=drive_link](https://drive.google.com/file/d/1Fbhdnh3EZ8JP3N1a_bssJA8-Vx8V-YPb/view?usp=drive_link)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
